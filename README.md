@@ -1,6 +1,6 @@
 ###  Socials
 <p>
-  <a href="https://linkedin.com/in/www.linkedin.com/in/ghita-lahbabi-0134b2231" target="_blank">
+  <a href="https://www.linkedin.com/in/ghita-lahbabi-0134b2231/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
   <a href="https://discord.com/users/ghitano" target="_blank">
