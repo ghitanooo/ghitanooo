@@ -1,3 +1,5 @@
+
+
 ###  Socials 👇
 <p>
   <a href="https://www.linkedin.com/in/ghita-lahbabi-0134b2231/" target="_blank">
@@ -16,9 +18,7 @@
 ### 📊  
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ghitanooo&theme=gruvbox_light&hide_border=true" />
+  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghitanooo&theme=gruvbox_light&show_icons=true" />
 </p>
 
-<p>
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghitanooo&theme=gruvbox_light&show_icons=true" />
 
-</p>
