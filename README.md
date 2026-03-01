@@ -1,6 +1,8 @@
 
-<h3 align="center">I build fun things :) </h3>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/ifYd4sfkeoa4iGv2Fk/giphy.gif" width="300" alt="snoop">
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ghita-lahbabi-0134b2231/" target="_blank">
