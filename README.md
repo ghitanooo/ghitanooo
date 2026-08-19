@@ -19,8 +19,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ghitanooo&theme=gruvbox_light&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghitanooo&theme=gruvbox_light&layout=compact" />
-</p>
