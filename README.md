@@ -1,8 +1,7 @@
 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ifYd4sfkeoa4iGv2Fk/giphy.gif" width="300" alt="snoop">
-</p>
+<img src="koi/koi.gif" width="256" alt="My koi" /></p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ghita-lahbabi-0134b2231/" target="_blank">
@@ -17,5 +16,6 @@
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
+
 
 ---
