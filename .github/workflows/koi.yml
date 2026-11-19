@@ -20,6 +20,7 @@ jobs:
       - uses: yalongwastaken/git-koi@v1
         with:
           body: gold
+          size: 512x256
 
       - name: Commit koi
         run: |
