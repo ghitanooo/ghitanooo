@@ -18,6 +18,8 @@ jobs:
       - uses: actions/checkout@v4
 
       - uses: yalongwastaken/git-koi@v1
+        with:
+          body: gold
 
       - name: Commit koi
         run: |
